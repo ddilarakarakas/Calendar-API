@@ -1,4 +1,4 @@
-# Calendar-API
+# Calendar API
 Basic Calendar Example iOS APP with UIKit
 
 A simple application that calendar example
